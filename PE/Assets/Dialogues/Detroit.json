@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher Me>>\nSo I like to play a game while driving.\n<<setSpeakerName DialogueSwitcher JiYeon>>\nWhat's the game?\n<<setSpeakerName DialogueSwitcher Me>>\nI try to keep my foot still while braking...\nAnd at the end, if my car doesn't bounce when it comes to a stop,\nI win!\n<<setSpeakerName DialogueSwitcher JiYeon>>\n(sigh) I can't believe I chose to go on this date\non my birthday...\n<<setSpeakerName DialogueSwitcher Me>>\nI wonder if I should tell her it's my birthday...\n<<setSpeakerName DialogueSwitcher JiYeon>>\nOH MY GOD! TURN LEFT!!!\n<<beginQTE DialogueSwitcher QTETarget>>",
+		"position": {
+			"x": -89,
+			"y": -78
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Success",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher Me>>\nUh... sorry about that.\n<<setSpeakerName DialogueSwitcher JiYeon>>\nOh my God! You almost drove us to Canada!!\n<<LoadNextLevel Canvas>>",
+		"position": {
+			"x": 147,
+			"y": -13
+		},
+		"colorID": 0
+	}
+]

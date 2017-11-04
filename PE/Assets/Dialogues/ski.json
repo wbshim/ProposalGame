@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher JiYeon>>\nI think you're getting the hang of this!\n<<setSpeakerName DialogueSwitcher Me>>\nYeah! I hope I can get down this blue diamond trail...\n<<setSpeakerName DialogueSwitcher JiYeon>>\nI think you will. I believe in you.\nAlso, I can't believe the beer fairy is real!\n<<setSpeakerName DialogueSwitcher Me>>\nYeah! And he/she placed them all over this trail too!\n<<BeginGameplay GameManager>>",
+		"position": {
+			"x": 1139,
+			"y": 456
+		},
+		"colorID": 0
+	}
+]

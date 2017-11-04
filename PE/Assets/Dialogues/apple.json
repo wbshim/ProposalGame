@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher JiYeon>>\nIt's crazy that we're both allergic to apples.\n<<setSpeakerName DialogueSwitcher Me>>\nAnd peaches...\n<<setSpeakerName DialogueSwitcher JiYeon>>\nAnd how both our pinky toe nails are split...\nDo you think we're related?\n<<setSpeakerName DialogueSwitcher Me>>\nNo! Why would you ever think that?!\n<<setSpeakerName DialogueSwitcher JiYeon>>\nAnyway, let's unnecessarily overfill our bag with apples,\nEven though we're obviously not going to finish them.\n<<setSpeakerName DialogueSwitcher Me>>\nOkay!\n<<BeginGameplay AppleGameManager>>",
+		"position": {
+			"x": 546,
+			"y": 277
+		},
+		"colorID": 0
+	}
+]

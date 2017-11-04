@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: ac2da1544af146440badf7be83f7eb4d
+timeCreated: 1500599665
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Calf_L
+    100006: Calf_R
+    100008: Chest
+    100010: Cube
+    100012: Finger_Tips_L
+    100014: Finger_Tips_R
+    100016: Fingers_L
+    100018: Fingers_R
+    100020: Foot_L
+    100022: Foot_R
+    100024: generic_male
+    100026: Hand_L
+    100028: Hand_R
+    100030: Head
+    100032: Hips
+    100034: Lower_Arm_L
+    100036: Lower_Arm_R
+    100038: Neck
+    100040: Shoulder_L
+    100042: Shoulder_R
+    100044: Spine
+    100046: Thigh_L
+    100048: Thigh_R
+    100050: Thumb_L
+    100052: Thumb_R
+    100054: Thumb_Tip_L
+    100056: Thumb_Tip_R
+    100058: Toes_L
+    100060: Toes_R
+    100062: Upper_Arm_L
+    100064: Upper_Arm_R
+    100066: Cylinder
+    100068: Cylinder_001
+    100070: Cylinder_002
+    400000: //RootNode
+    400002: Armature
+    400004: Calf_L
+    400006: Calf_R
+    400008: Chest
+    400010: Cube
+    400012: Finger_Tips_L
+    400014: Finger_Tips_R
+    400016: Fingers_L
+    400018: Fingers_R
+    400020: Foot_L
+    400022: Foot_R
+    400024: generic_male
+    400026: Hand_L
+    400028: Hand_R
+    400030: Head
+    400032: Hips
+    400034: Lower_Arm_L
+    400036: Lower_Arm_R
+    400038: Neck
+    400040: Shoulder_L
+    400042: Shoulder_R
+    400044: Spine
+    400046: Thigh_L
+    400048: Thigh_R
+    400050: Thumb_L
+    400052: Thumb_R
+    400054: Thumb_Tip_L
+    400056: Thumb_Tip_R
+    400058: Toes_L
+    400060: Toes_R
+    400062: Upper_Arm_L
+    400064: Upper_Arm_R
+    400066: Cylinder
+    400068: Cylinder_001
+    400070: Cylinder_002
+    2300000: //RootNode
+    2300002: Cube
+    2300004: Cylinder
+    2300006: Cylinder_001
+    2300008: Cylinder_002
+    3300000: //RootNode
+    3300002: Cube
+    3300004: Cylinder
+    3300006: Cylinder_001
+    3300008: Cylinder_002
+    4300000: Cube
+    4300002: generic_male
+    4300004: Cylinder_002
+    4300006: Cylinder_001
+    4300008: Cylinder
+    7400000: Default Take
+    7400002: Dance_wonbo
+    7400004: Kayak_idle
+    7400006: Kayak_row_left
+    7400008: Sitting_reading
+    7400010: Walk
+    9500000: //RootNode
+    13700000: generic_male
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

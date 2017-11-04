@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Netflix",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher JiYeon>>\nWonbo...\n<<setSpeakerName DialogueSwitcher Me>>\nYes...?\n<<setSpeakerName DialogueSwitcher JiYeon>>\nWhat are you doing?\n<<setSpeakerName DialogueSwitcher Me>>\nNothing much. Just watching netflix.\n<<setSpeakerName DialogueSwitcher JiYeon>>\nOh, okay.\n<<MainMenuMove Center>>",
+		"position": {
+			"x": 109,
+			"y": 16
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Homework",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher JiYeon>>\nWhat are you doing now?\n<<setSpeakerName DialogueSwitcher Me>>\nHomework.\n<<setSpeakerName DialogueSwitcher JiYeon>>\nHow's that going?\n<<setSpeakerName DialogueSwitcher Me>>\nPretty good. I'm almost done.\n<<setSpeakerName DialogueSwitcher JiYeon>>\nOh wow!\n<<MainMenuMove Center>>\n",
+		"position": {
+			"x": 363,
+			"y": 20
+		},
+		"colorID": 0
+	},
+	{
+		"title": "VideoGame",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher JiYeon>>\nWonbo...\n<<setSpeakerName DialogueSwitcher Me>>\nWhat.\n<<setSpeakerName DialogueSwitcher JiYeon>>\nAre you making a video game as a way to propose?\n<<setSpeakerName DialogueSwitcher Me>>\n(Panic) No, that would take too much effort.\n<<setSpeakerName DialogueSwitcher JiYeon>>\nWhy do you look all sweaty?\n<<setSpeakerName DialogueSwitcher Me>>\nYour face looks sweaty.\n<<setSpeakerName DialogueSwitcher JiYeon>>\nThat's so mean.\n<<MainMenuMove Center>>",
+		"position": {
+			"x": 596,
+			"y": 17
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Engaged",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher JiYeon>>\nWonbo, are you going to propose on the cruise?! \n<<setSpeakerName DialogueSwitcher Me>>\n(Fake nervous laughter) HAHAHAHA \n<<setSpeakerName DialogueSwitcher JiYeon>>\nWhy are you laughing?\nOh my god you are... that is so cliche.\n<<setSpeakerName DialogueSwitcher Me>>\nI never said I would.\nAlso, if you want to be completely surprised, stop asking!!\n<<setSpeakerName DialogueSwitcher JiYeon>>\nThen when are you going to??\n<<setSpeakerName DialogueSwitcher Me>>\nWhat did i just say?!\n<<setSpeakerName DialogueSwitcher JiYeon>>\nGrumble grumble.\n<<MainMenuMove Center>>",
+		"position": {
+			"x": 842,
+			"y": 17
+		},
+		"colorID": 0
+	}
+]

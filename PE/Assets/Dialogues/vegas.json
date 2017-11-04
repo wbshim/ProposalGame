@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher JiYeon>>\n...................!\n<<setSpeakerName DialogueSwitcher Me>>\nwhat??\n<<setSpeakerName DialogueSwitcher JiYeon>>\n..............................!!!\n<<setSpeakerName DialogueSwitcher Me>>\nI can't hear you!!\n<<setSpeakerName DialogueSwitcher JiYeon>>\nwhat?!\n<<beginGameplay GameManager>>",
+		"position": {
+			"x": 546,
+			"y": 277
+		},
+		"colorID": 0
+	}
+]

@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher JiYeon>>\nWonbo...\n<<setSpeakerName DialogueSwitcher Me>>\nYes...?\n<<setSpeakerName DialogueSwitcher JiYeon>>\nCould you go all the way to the end of this river,\nAnd then come all the way back and tell me if it's even worth going?\n<<setSpeakerName DialogueSwitcher Me>>\n...\n<<setSpeakerName DialogueSwitcher JiYeon>>\nI'm serious. I don't want to tire myself out.\n<<setSpeakerName DialogueSwitcher Me>>\nFine.\n<<BeginKayakGameplay DialogueSwitcher>>",
+		"position": {
+			"x": 363,
+			"y": 614
+		},
+		"colorID": 0
+	}
+]

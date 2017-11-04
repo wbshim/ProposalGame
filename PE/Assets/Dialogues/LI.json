@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher JiYeon>>\nWonbo, this has been my dream:\nTo catch the fish, fillet it, and eat it.\nFARM. TO. TABLE.\n<<setSpeakerName DialogueSwitcher Me>>\n(Rolling eyes)\n<<setSpeakerName DialogueSwitcher JiYeon>>\nNo, I'm serious!\n<<setSpeakerName DialogueSwitcher Me>>\nThis isn't even fair to the fish. \nWe have a giant block of bait below us.\nThis isn't really fishing.\n<<setSpeakerName DialogueSwitcher JiYeon>>\nNo, this is INTELLIGENT fishing.",
+		"position": {
+			"x": 546,
+			"y": 277
+		},
+		"colorID": 0
+	}
+]

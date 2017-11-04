@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Wonbo",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher Me>>\nMan I hate being single.\nBut how do I find the right girl?\nIf only I could find someone that meets my very high expectations...\nWait a minute. Who is that?\n<<ShowArrow GameManager>>",
+		"position": {
+			"x": -763,
+			"y": -219
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher Me>>\nHi, I'm Wonbo, but please call me Won, since this is our first time speaking.\n<<setSpeakerName DialogueSwitcher JiYeon>>\nHi! I'm Ji-Yeon. It's nice to meet you. Yes, this is a total surprise.\n<<setSpeakerName DialogueSwitcher Me>>\nThis other girl I met online who isn't you blew off our first meeting...\n<<setSpeakerName DialogueSwitcher JiYeon>>\nHuh. She sounds rude.\n<<setSpeakerName DialogueSwitcher Me>>\nI'm sure she was nice. I think her name was also Ji-... \nAnyway, since this is definitely our first time speaking, let me ask you...\n<<setSpeakerName DialogueSwitcher JiYeon>>\nYes, since I have never spoken to you before.\n<<setSpeakerName DialogueSwitcher Me>>\nI just moved to the area. What is there to do around here?\n<<setSpeakerName DialogueSwitcher JiYeon>>\nWell, I recommend going to a Pistons game.\n<<setSpeakerName DialogueSwitcher Me>>\nAwesome! Now let me talk about myself for the next 15 minutes.\n<<playFinalCard GameManager>>\n\n\n",
+		"position": {
+			"x": -526,
+			"y": -237
+		},
+		"colorID": 0
+	},
+	{
+		"title": "End",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher EndCard>>\nThe end\nSurprise!\nI love you, Ji-Yeon\nI love all the memories we've created\nAnd how you make me laugh... A lot... At you\nSo much has happened over the past 5 years\nand I'd like to live the rest of my days with you\nSo one more thing...\nTake off your headphones\n",
+		"position": {
+			"x": -1035,
+			"y": -243
+		},
+		"colorID": 0
+	}
+]

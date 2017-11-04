@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher Me>>\nHmmm.\nI could sure go for coffee.\nAnd I want Starbucks, specifically. Not the way more economical one at work.\nI should also get a haircut.\n<<setSpeakerName DialogueSwitcher Dan>>\nOh my god Won, stop talking to yourself out loud. Some of us are trying to work.\n<<setSpeakerName DialogueSwitcher Me>>\nHey, what did they do with that water cooler anyway?\n<<setSpeakerName DialogueSwitcher Dan>>\nThey got rid of it.\nSeeing as how we have fountains all over the campus.\n<<PlayFinalCard Canvas>>",
+		"position": {
+			"x": 546,
+			"y": 277
+		},
+		"colorID": 0
+	}
+]

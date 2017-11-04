@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher Me>>\nHi Ji-Yeon, I'm Won, not Wonbo because it's our first time meeting.\n<<setSpeakerName DialogueSwitcher JiYeon>>\nHi! It's nice to meet you this is a surprise.\n<<setSpeakerName DialogueSwitcher Me>>\nThis other girl I met online blew off our first meeting...\n<<setSpeakerName DialogueSwitcher JiYeon>>\nHuh. She sounds rude.\n<<setSpeakerName DialogueSwitcher Me>>\nRight?!\nSince this is definitely our first time speaking, let me ask you...\nI just moved to the area. What is there to do around here?\n<<setSpeakerName DialogueSwitcher JiYeon>>\nYes, I have never spoken to you before.\nWell, I recommend going to a Piston's game.\n<<setSpeakerName DialogueSwitcher Me>>\nAwesome! So let me talk about myself for the next 15 minutes.\n\n\n",
+		"position": {
+			"x": -1335,
+			"y": -564
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Wonbo",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher Me>>\nBeing single is not the worst thing in the world,\nBut having a girlfriend is so much better...\nEspecially if she is wife-material.\nIf only I could find someone that meets my high standards...\nWait a minute. Who is that??\n\n\n",
+		"position": {
+			"x": -1047,
+			"y": -569
+		},
+		"colorID": 0
+	}
+]

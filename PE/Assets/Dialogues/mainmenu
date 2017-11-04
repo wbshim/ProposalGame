@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Netflix",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher JiYeon>>\nWonbo...\n<<setSpeakerName DialogueSwitcher Me>>\nYes...?\n<<setSpeakerName DialogueSwitcher JiYeon>>\nWhat are you doing?\n<<setSpeakerName DialogueSwitcher Me>>\nNothing much. Just watching netflix.\n<<setSpeakerName DialogueSwitcher JiYeon>>\nOh, okay.",
+		"position": {
+			"x": 577,
+			"y": 27
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Homework",
+		"tags": "",
+		"body": "<<setSpeakerName DialogueSwitcher JiYeon>>\nWhat are you doing now?\n<<setSpeakerName DialogueSwitcher Me>>\nHomework.\n<<setSpeakerName DialogueSwitcher JiYeon>>\nHow's that going?\n<<setSpeakerName DialogueSwitcher Me>>\nPretty good. I'm almost done.\n<<setSpeakerName DialogueSwitcher JiYeon>>\nOh wow!\n",
+		"position": {
+			"x": 331,
+			"y": 27
+		},
+		"colorID": 0
+	}
+]

@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1065185934975880}
+  m_IsPrefabParent: 1
+--- !u!1 &1065185934975880
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4546386056541708}
+  - component: {fileID: 114774416768679026}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4546386056541708
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1065185934975880}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114774416768679026
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1065185934975880}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a69dca6eb8e264f989a374ab7a3d0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: BackgroundWeepies
+    clip: {fileID: 8300000, guid: a4f3f6aa4c1c27e41842fd9f0da82e41, type: 3}
+    volume: 0.125
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: CoffeeShopAmbience
+    clip: {fileID: 8300000, guid: c170aacfe0944834cb22adc324d11fe2, type: 3}
+    volume: 0.081
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: BackgroundDeadmau5
+    clip: {fileID: 8300000, guid: 4baf6b9080141c543895b1125465caa7, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: BackgroundSafeAndSound
+    clip: {fileID: 8300000, guid: e29da0b36075aaa449cb27ab3a511483, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: BackgroundJustin
+    clip: {fileID: 8300000, guid: 88f439d01517d2a4a9ea18d046a7b5d1, type: 3}
+    volume: 0.1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Canada
+    clip: {fileID: 8300000, guid: 14f6803dda4d7e942ba74caccfcdf916, type: 3}
+    volume: 0.1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Collect
+    clip: {fileID: 8300000, guid: 94ed0659f0f8ab14aaaa57687e5b8aa9, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: GotHit
+    clip: {fileID: 8300000, guid: 868786bdcad980a468ad8e6b4dce2f53, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Win
+    clip: {fileID: 8300000, guid: c6b56bffed77e2e4587a16ddfd321cbf, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: River
+    clip: {fileID: 8300000, guid: 3a5e08eb21cb5dc45a3274c373f69970, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Paddle
+    clip: {fileID: 8300000, guid: 8d3767685a7f9f34f8c054c9ed85bc7f, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: LevelUp
+    clip: {fileID: 8300000, guid: e41abfb750b07b74298416abc9a18fd5, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Ocean
+    clip: {fileID: 8300000, guid: 2bdf0551dcc349546b626034ca1cfaa1, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Reel
+    clip: {fileID: 8300000, guid: 49855ace8ca438e40b27726cf62d55ed, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Keyboard
+    clip: {fileID: 8300000, guid: b586b008e450a8949bccc1d7b001545f, type: 3}
+    volume: 0.194
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: BackgroundVent
+    clip: {fileID: 8300000, guid: 34a03bde0bd4c8745b7a44c54131b7be, type: 3}
+    volume: 0
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: BackgroundRose
+    clip: {fileID: 8300000, guid: fd0ee4dfe241ccc4fae18c8743a4c810, type: 3}
+    volume: 0.1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Cheer
+    clip: {fileID: 8300000, guid: cf142fcf53a55df429767f0f42aadef4, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  backgroundMusic: {fileID: 0}
